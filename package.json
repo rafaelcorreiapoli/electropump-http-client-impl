@@ -1,0 +1,22 @@
+{
+  "name": "electropump-http-client-impl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electropump-http-client-api": "1.4.0"
+  },
+  "ern": {
+    "moduleType": "ern-native-api-impl",
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "ElectropumpHttpClientApiImplNative",
+      "apiNames": [
+        "HttpClient"
+      ]
+    }
+  },
+  "keywords": [
+    "ern-native-api-impl"
+  ]
+}
