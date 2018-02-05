@@ -1,11 +1,11 @@
 {
   "name": "react-native-electropump-http-client-api-impl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react-native-electrode-bridge": "1.5.9",
-    "electropump-http-client-api": "1.4.0"
+    "electropump-http-client-api": "1.4.0",
+    "react-native-electrode-bridge": "1.5.9"
   },
   "ern": {
     "moduleType": "ern-native-api-impl",
