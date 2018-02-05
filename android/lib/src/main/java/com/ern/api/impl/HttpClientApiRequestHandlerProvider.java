@@ -33,7 +33,6 @@ import okhttp3.Request;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 
-
 /**
  * This class is a generated place holder for your HttpClient implementations.!
  * Feel free to modify this class contents as needed. `ern regen-api-impl` command WILL NOT modify the content of this class.
